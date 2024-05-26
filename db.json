@@ -1,0 +1,67 @@
+{
+  "lessons": [
+    {
+      "title": "Podstawy Medytacji",
+      "description": "Naucz się podstawowych technik medytacyjnych, które pomogą Ci lepiej się skoncentrować.",
+      "premium": false,
+      "steps": [
+        "Znajdź ciche miejsce",
+        "Usiądź wygodnie",
+        "Zamknij oczy",
+        "Oddychaj głęboko",
+        "Skup się na oddechu",
+        "Pozwól myślom płynąć",
+        "Zakończ medytację"
+      ],
+      "image_url":"https://i.imgur.com/hvxwBpp.jpeg",
+      "video_url": ""
+    },
+    {
+      "title": "Ćwiczenia Oddychania",
+      "description": "Poznaj techniki oddychania, które natychmiast poprawią Twoje skupienie.",
+      "premium": false,
+      "steps": [
+        "Wdech i wydech",
+        "Technika 4-7-8",
+        "Oddychanie brzuszne",
+        "Pomiar pulsu",
+        "Gra rytmu oddechu",
+        "Codzienne wyzwania",
+        "Porady ekspertów"
+      ],
+      "image_url":"https://i.imgur.com/sR57DNB.jpeg",
+      "video_url": ""
+    },
+    {
+      "title": "Gra Koncentracji: Memory",
+      "description": "Ulepsz swoją koncentrację i pamięć poprzez grę w Memory.",
+      "premium": true,
+      "steps": [
+        "Wybierz poziom trudności",
+        "Odkrywaj karty",
+        "Skup się",
+        "Rozwijaj pamięć",
+        "Zachęta do przerwy",
+        "Zwiększaj trudność",
+        "Sprawdź postępy"
+      ],
+      "image_url":"https://i.imgur.com/PWHr2Au.jpeg",
+      "video_url": ""
+    },
+    {
+      "title": "Zaawansowane Techniki Medytacyjne: Visualize",
+      "description": "Gra Visualize to interaktywna podróż, która pomoże Ci pogłębić medytację i skupienie.",
+      "premium": true,
+      "steps": [
+        "Wybierz środowisko: Wybierz miejsce, w którym chcesz medytować, np. las, góry, plaża.",
+	      "Ustal intencję: Zastanów się, na czym chcesz się skupić podczas medytacji, np. wdzięczność, spokój.",
+	      "Skanowanie ciała: Przenieś uwagę na każdą część ciała, zaczynając od palców stóp aż po czubek głowy, zauważając napięcie i je rozluźniając.",
+	      "Mantra i dźwięki: Wybierz słowo lub frazę, np. spokój, harmonia, i powtarzaj je w myślach podczas medytacji.",
+	      "Medytacja z wizualizacją: Wyobraź sobie spokojne miejsce, np. plażę, las. Skup się na szczegółach, dźwiękach i zapachach.",
+	      "Pomiar postępów: Śledź swoje postępy w aplikacji, widząc, jak długo udało Ci się utrzymać skupienie."
+      ],
+      "image_url":"https://i.imgur.com/ePn4jxZ.jpeg",
+      "video_url": ""
+    }
+  ]
+}
